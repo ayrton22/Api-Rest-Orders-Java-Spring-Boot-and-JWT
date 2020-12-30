@@ -4,7 +4,7 @@ DataBase:
 MySQL
 
 Main file: 
-OrderApiApplication.java | path = order-api/src/main/java/com/codmain/orderapi
+OrderApiApplication.java   |   path = order-api/src/main/java/com/codmain/orderapi/OrderApiApplication.java
 
 Links:
 localhost:8080/api/v1/swagger-ui.html#/ (Documentation)
